@@ -3,6 +3,6 @@ Repo with various prompts for claude desktop
 
 List of prompts
 
-## DXT_Creator_prompt.md ##         General instructions for creating claude desktop extensions .dxt 
+**DXT_CREATOR_PROMPT.md**     -    _General instructions for creating claude desktop extensions .dxt_ 
 
-## Project_mgmt_prompt.md ##        Instructions for creating claude desktop extension for managing coding projects (depends on filesystem MCP)
+**PROJECT_MGMT_PROMPT.md**    -    _Instructions for creating claude desktop extension for managing coding projects (depends on filesystem MCP)_
